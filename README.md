@@ -4,7 +4,7 @@ During my internship training at Octanet, I embarked on an enriching journey int
 
 Moreover, I applied my knowledge to complete their tasks and made practical projects and built a responsive Landing Page, and developed a To Do Application. Each project not only reinforced my technical skills but also improved my problem-solving abilities and teamwork.
 
-# Projects
+## Projects
 
 1. [Landing Page](https://github.com/ananya990/OctaNet_Training/tree/main/Landing_Page)
 
